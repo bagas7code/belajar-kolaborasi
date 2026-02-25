@@ -4,4 +4,4 @@ Hai guys
 Saya sedang
 Belajar di Dicoding
 
-Ini adalah
+Ini adalah kalimat tambahan
